@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Departamento de Física</p>
     <p>Universidad Nacional de Colombia</p>
-    <p>Bogotá - Colombia</p>
+    <p>Bogotá</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
